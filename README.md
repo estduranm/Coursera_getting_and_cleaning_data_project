@@ -1,4 +1,4 @@
-# Coursera_getting_and_cleaning_data_project
+# How the script works?
 
 The script named run_analysis.R does the following. 
 
